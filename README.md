@@ -4,7 +4,7 @@ This repository contains a collection of specialized skills that enhance product
 
 ## Available Skills
 
-### 1. Copywriting Email Replier (`copywriting-email-replier`)
+### 1. Email Replier
 
 **What it replaces:** Manual email composition and proofreading processes that often result in poorly structured or unprofessional communications.
 
@@ -26,7 +26,7 @@ This repository contains a collection of specialized skills that enhance product
 
 ---
 
-### 2. Day Planner (`day-planner-new`)
+### 2. Day Planner
 
 **What it replaces:** Manual scheduling on paper, basic calendar apps, or mental planning that lacks structured time allocation.
 
@@ -49,7 +49,7 @@ This repository contains a collection of specialized skills that enhance product
 
 ---
 
-### 3. Insurance Premium Calculator (`insurance-premium-calculator-skill`)
+### 3. Insurance Premium Calculator
 
 **What it replaces:** Manual calculations on paper or basic calculators for complex insurance premium computations involving multiple variables and regulatory requirements.
 
@@ -76,7 +76,7 @@ This repository contains a collection of specialized skills that enhance product
 
 | Skill | Primary Benefit | Time Savings | Quality Impact |
 |-------|----------------|--------------|----------------|
-| Copywriting Email Replier | Professional communication | 5-10 min/email | Consistency & clarity |
+| Email Replier | Professional communication | 5-10 min/email | Consistency & clarity |
 | Day Planner | Structured time management | 10-15 min/day | Organization & planning |
 | Insurance Premium Calculator | Complex financial calculations | 8-12 min/calculation | Accuracy & compliance |
 
